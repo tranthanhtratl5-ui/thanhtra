@@ -189,9 +189,9 @@ st.markdown("""
 
 # --- 4. GIAO DIỆN CHÍNH ---
 st.markdown("""
-<div class="main-header">
+Trần Thanh Trà 0983005488 Trường tiểu học Tân Loan
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</p>
+    <p>Tác giả: Trần Thanh Trà - Trường Tiểu học Tân Loan - ĐT: 0983005488</p>
 </div>
 """, unsafe_allow_html=True)
 
